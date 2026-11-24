@@ -1,0 +1,5 @@
+# Keep generated output out of GitHub's language detection
+**/allure-results/** linguist-generated=true
+**/allure-report/** linguist-generated=true
+**/target/** linguist-generated=true
+*.class linguist-generated=true
